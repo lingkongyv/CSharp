@@ -1,0 +1,8 @@
+E:\Code\Visual Studio\c#\CSharp入门教程\_014_编程题\bin\Debug\_014_编程题.exe.config
+E:\Code\Visual Studio\c#\CSharp入门教程\_014_编程题\bin\Debug\_014_编程题.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_014_编程题\bin\Debug\_014_编程题.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_014_编程题\obj\Debug\_014_编程题.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_014_编程题\obj\Debug\_014_编程题.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_014_编程题\obj\Debug\_014_编程题.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_014_编程题\obj\Debug\_014_编程题.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_014_编程题\obj\Debug\_014_编程题.exe.config

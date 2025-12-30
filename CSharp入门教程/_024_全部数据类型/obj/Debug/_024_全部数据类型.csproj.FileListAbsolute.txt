@@ -1,0 +1,8 @@
+E:\Code\Visual Studio\c#\CSharp入门教程\_024_全部数据类型\obj\Debug\_024_全部数据类型.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_024_全部数据类型\obj\Debug\_024_全部数据类型.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_024_全部数据类型\bin\Debug\_024_全部数据类型.exe.config
+E:\Code\Visual Studio\c#\CSharp入门教程\_024_全部数据类型\bin\Debug\_024_全部数据类型.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_024_全部数据类型\bin\Debug\_024_全部数据类型.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_024_全部数据类型\obj\Debug\_024_全部数据类型.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_024_全部数据类型\obj\Debug\_024_全部数据类型.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_024_全部数据类型\obj\Debug\_024_全部数据类型.exe.config

@@ -1,0 +1,8 @@
+E:\Code\Visual Studio\c#\CSharp入门教程\_023_字符读取\bin\Debug\_023_字符读取.exe.config
+E:\Code\Visual Studio\c#\CSharp入门教程\_023_字符读取\bin\Debug\_023_字符读取.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_023_字符读取\bin\Debug\_023_字符读取.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_023_字符读取\obj\Debug\_023_字符读取.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_023_字符读取\obj\Debug\_023_字符读取.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_023_字符读取\obj\Debug\_023_字符读取.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_023_字符读取\obj\Debug\_023_字符读取.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_023_字符读取\obj\Debug\_023_字符读取.exe.config

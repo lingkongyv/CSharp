@@ -1,0 +1,8 @@
+E:\Code\Visual Studio\c#\CSharp入门教程\_007_数学运算符\bin\Debug\_007_数学运算符.exe.config
+E:\Code\Visual Studio\c#\CSharp入门教程\_007_数学运算符\bin\Debug\_007_数学运算符.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_007_数学运算符\bin\Debug\_007_数学运算符.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_007_数学运算符\obj\Debug\_007_数学运算符.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_007_数学运算符\obj\Debug\_007_数学运算符.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_007_数学运算符\obj\Debug\_007_数学运算符.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_007_数学运算符\obj\Debug\_007_数学运算符.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_007_数学运算符\obj\Debug\_007_数学运算符.exe.config

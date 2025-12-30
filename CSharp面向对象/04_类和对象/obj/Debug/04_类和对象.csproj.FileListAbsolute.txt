@@ -1,0 +1,8 @@
+E:\Code\Visual Studio\c#\CSharp面向对象\04_类和对象\bin\Debug\04_类和对象.exe.config
+E:\Code\Visual Studio\c#\CSharp面向对象\04_类和对象\bin\Debug\04_类和对象.exe
+E:\Code\Visual Studio\c#\CSharp面向对象\04_类和对象\bin\Debug\04_类和对象.pdb
+E:\Code\Visual Studio\c#\CSharp面向对象\04_类和对象\obj\Debug\04_类和对象.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp面向对象\04_类和对象\obj\Debug\04_类和对象.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp面向对象\04_类和对象\obj\Debug\04_类和对象.exe
+E:\Code\Visual Studio\c#\CSharp面向对象\04_类和对象\obj\Debug\04_类和对象.pdb
+E:\Code\Visual Studio\c#\CSharp面向对象\04_类和对象\obj\Debug\04_类和对象.exe.config

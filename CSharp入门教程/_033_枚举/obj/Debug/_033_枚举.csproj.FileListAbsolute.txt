@@ -1,0 +1,7 @@
+E:\Code\Visual Studio\c#\CSharp入门教程\_033_枚举\bin\Debug\_033_枚举.exe.config
+E:\Code\Visual Studio\c#\CSharp入门教程\_033_枚举\bin\Debug\_033_枚举.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_033_枚举\bin\Debug\_033_枚举.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_033_枚举\obj\Debug\_033_枚举.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_033_枚举\obj\Debug\_033_枚举.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_033_枚举\obj\Debug\_033_枚举.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_033_枚举\obj\Debug\_033_枚举.pdb

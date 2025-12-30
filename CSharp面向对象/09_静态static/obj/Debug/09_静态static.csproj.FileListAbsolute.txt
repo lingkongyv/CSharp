@@ -1,0 +1,8 @@
+E:\Code\Visual Studio\c#\CSharp面向对象\09_静态static\bin\Debug\09_静态static.exe.config
+E:\Code\Visual Studio\c#\CSharp面向对象\09_静态static\bin\Debug\09_静态static.exe
+E:\Code\Visual Studio\c#\CSharp面向对象\09_静态static\bin\Debug\09_静态static.pdb
+E:\Code\Visual Studio\c#\CSharp面向对象\09_静态static\obj\Debug\09_静态static.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp面向对象\09_静态static\obj\Debug\09_静态static.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp面向对象\09_静态static\obj\Debug\09_静态static.exe
+E:\Code\Visual Studio\c#\CSharp面向对象\09_静态static\obj\Debug\09_静态static.pdb
+E:\Code\Visual Studio\c#\CSharp面向对象\09_静态static\obj\Debug\09_静态static.exe.config

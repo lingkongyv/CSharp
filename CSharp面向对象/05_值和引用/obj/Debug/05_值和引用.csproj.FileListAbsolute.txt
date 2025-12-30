@@ -1,0 +1,8 @@
+E:\Code\Visual Studio\c#\CSharp面向对象\05_值和引用\bin\Debug\05_值和引用.exe.config
+E:\Code\Visual Studio\c#\CSharp面向对象\05_值和引用\bin\Debug\05_值和引用.exe
+E:\Code\Visual Studio\c#\CSharp面向对象\05_值和引用\bin\Debug\05_值和引用.pdb
+E:\Code\Visual Studio\c#\CSharp面向对象\05_值和引用\obj\Debug\05_值和引用.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp面向对象\05_值和引用\obj\Debug\05_值和引用.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp面向对象\05_值和引用\obj\Debug\05_值和引用.exe
+E:\Code\Visual Studio\c#\CSharp面向对象\05_值和引用\obj\Debug\05_值和引用.pdb
+E:\Code\Visual Studio\c#\CSharp面向对象\05_值和引用\obj\Debug\05_值和引用.exe.config

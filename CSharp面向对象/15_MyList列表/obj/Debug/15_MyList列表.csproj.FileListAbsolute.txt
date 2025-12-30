@@ -1,0 +1,8 @@
+E:\Code\Visual Studio\c#\CSharp面向对象\15_MyList列表\bin\Debug\15_MyList列表.exe.config
+E:\Code\Visual Studio\c#\CSharp面向对象\15_MyList列表\bin\Debug\15_MyList列表.exe
+E:\Code\Visual Studio\c#\CSharp面向对象\15_MyList列表\bin\Debug\15_MyList列表.pdb
+E:\Code\Visual Studio\c#\CSharp面向对象\15_MyList列表\obj\Debug\15_MyList列表.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp面向对象\15_MyList列表\obj\Debug\15_MyList列表.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp面向对象\15_MyList列表\obj\Debug\15_MyList列表.exe
+E:\Code\Visual Studio\c#\CSharp面向对象\15_MyList列表\obj\Debug\15_MyList列表.pdb
+E:\Code\Visual Studio\c#\CSharp面向对象\15_MyList列表\obj\Debug\15_MyList列表.exe.config

@@ -1,0 +1,8 @@
+E:\Code\Visual Studio\c#\CSharp入门教程\_028_排序\bin\Debug\_028_排序.exe.config
+E:\Code\Visual Studio\c#\CSharp入门教程\_028_排序\bin\Debug\_028_排序.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_028_排序\bin\Debug\_028_排序.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_028_排序\obj\Debug\_028_排序.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_028_排序\obj\Debug\_028_排序.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_028_排序\obj\Debug\_028_排序.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_028_排序\obj\Debug\_028_排序.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_028_排序\obj\Debug\_028_排序.exe.config

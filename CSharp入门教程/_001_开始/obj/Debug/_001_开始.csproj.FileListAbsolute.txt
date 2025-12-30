@@ -1,0 +1,8 @@
+E:\Code\Visual Studio\c#\CSharp入门教程\_001_开始\bin\Debug\_001_开始.exe.config
+E:\Code\Visual Studio\c#\CSharp入门教程\_001_开始\bin\Debug\_001_开始.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_001_开始\bin\Debug\_001_开始.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_001_开始\obj\Debug\_001_开始.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_001_开始\obj\Debug\_001_开始.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_001_开始\obj\Debug\_001_开始.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_001_开始\obj\Debug\_001_开始.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_001_开始\obj\Debug\_001_开始.exe.config

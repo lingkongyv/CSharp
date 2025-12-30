@@ -1,0 +1,7 @@
+E:\Code\Visual Studio\c#\CSharp入门教程\_003_变量\bin\Debug\_003_变量.exe.config
+E:\Code\Visual Studio\c#\CSharp入门教程\_003_变量\bin\Debug\_003_变量.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_003_变量\bin\Debug\_003_变量.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_003_变量\obj\Debug\_003_变量.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_003_变量\obj\Debug\_003_变量.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_003_变量\obj\Debug\_003_变量.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_003_变量\obj\Debug\_003_变量.pdb

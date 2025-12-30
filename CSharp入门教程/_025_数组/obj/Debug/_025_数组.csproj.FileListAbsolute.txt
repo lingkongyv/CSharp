@@ -1,0 +1,8 @@
+E:\Code\Visual Studio\c#\CSharp入门教程\_025_数组\bin\Debug\_025_数组.exe.config
+E:\Code\Visual Studio\c#\CSharp入门教程\_025_数组\bin\Debug\_025_数组.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_025_数组\bin\Debug\_025_数组.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_025_数组\obj\Debug\_025_数组.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_025_数组\obj\Debug\_025_数组.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_025_数组\obj\Debug\_025_数组.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_025_数组\obj\Debug\_025_数组.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_025_数组\obj\Debug\_025_数组.exe.config

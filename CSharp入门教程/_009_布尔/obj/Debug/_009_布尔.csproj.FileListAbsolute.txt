@@ -1,0 +1,7 @@
+E:\Code\Visual Studio\c#\CSharp入门教程\_009_布尔\bin\Debug\_009_布尔.exe.config
+E:\Code\Visual Studio\c#\CSharp入门教程\_009_布尔\bin\Debug\_009_布尔.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_009_布尔\bin\Debug\_009_布尔.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_009_布尔\obj\Debug\_009_布尔.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_009_布尔\obj\Debug\_009_布尔.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_009_布尔\obj\Debug\_009_布尔.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_009_布尔\obj\Debug\_009_布尔.pdb

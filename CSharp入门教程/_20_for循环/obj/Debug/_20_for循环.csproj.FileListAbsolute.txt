@@ -1,0 +1,7 @@
+E:\Code\Visual Studio\c#\CSharp入门教程\_20_for循环\bin\Debug\_20_for循环.exe.config
+E:\Code\Visual Studio\c#\CSharp入门教程\_20_for循环\bin\Debug\_20_for循环.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_20_for循环\bin\Debug\_20_for循环.pdb
+E:\Code\Visual Studio\c#\CSharp入门教程\_20_for循环\obj\Debug\_20_for循环.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_20_for循环\obj\Debug\_20_for循环.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\c#\CSharp入门教程\_20_for循环\obj\Debug\_20_for循环.exe
+E:\Code\Visual Studio\c#\CSharp入门教程\_20_for循环\obj\Debug\_20_for循环.pdb
